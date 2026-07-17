@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "474911245185",
+    "project_id": "glowmate-73614",
+    "storage_bucket": "glowmate-73614.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:474911245185:android:7a19ccb836e3b772045e80",
+        "android_client_info": {
+          "package_name": "com.example.glowmate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "474911245185-n0f1it5s2p31ej3dfre0dece04jib4v7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.glowmate",
+            "certificate_hash": "2a2ff506e75fca2cec0e24a69b2ed7f940a71579"
+          }
+        },
+        {
+          "client_id": "474911245185-n0qnnl54m3amnmj9l40pgfjt1ufpepau.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAETbqt_pza6MrqZ2ovNDSaf-3T92Iv-j8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "474911245185-n0qnnl54m3amnmj9l40pgfjt1ufpepau.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "474911245185-hu3q74o778jgpq492q82k4jbnl59ijlg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.glowmate"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
